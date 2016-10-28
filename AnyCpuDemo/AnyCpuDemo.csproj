@@ -7,8 +7,8 @@
     <ProjectGuid>{558D367F-8A68-47D5-A5E7-B2DADA20F368}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>AnyCpuBridge</RootNamespace>
-    <AssemblyName>AnyCpuBridge</AssemblyName>
+    <RootNamespace>AnyCpuDemo</RootNamespace>
+    <AssemblyName>AnyCpuDemo</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <NuGetPackageImportStamp>a56d0f72</NuGetPackageImportStamp>

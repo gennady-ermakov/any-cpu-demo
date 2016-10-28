@@ -6,7 +6,7 @@ using System.Reflection;
 using Atalasoft.Imaging;
 using Atalasoft.Imaging.Codec;
 
-namespace AnyCpuBridge
+namespace AnyCpuDemo
 {
     class Program
     {
